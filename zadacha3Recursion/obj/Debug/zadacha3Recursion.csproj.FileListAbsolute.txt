@@ -1,0 +1,7 @@
+C:\Users\MEGA\Desktop\zadacha3Recursion\bin\Debug\zadacha3Recursion.exe.config
+C:\Users\MEGA\Desktop\zadacha3Recursion\bin\Debug\zadacha3Recursion.exe
+C:\Users\MEGA\Desktop\zadacha3Recursion\bin\Debug\zadacha3Recursion.pdb
+C:\Users\MEGA\Desktop\zadacha3Recursion\obj\Debug\zadacha3Recursion.csproj.AssemblyReference.cache
+C:\Users\MEGA\Desktop\zadacha3Recursion\obj\Debug\zadacha3Recursion.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\zadacha3Recursion\obj\Debug\zadacha3Recursion.exe
+C:\Users\MEGA\Desktop\zadacha3Recursion\obj\Debug\zadacha3Recursion.pdb
