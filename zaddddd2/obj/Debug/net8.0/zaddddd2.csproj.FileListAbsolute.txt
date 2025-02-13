@@ -1,0 +1,14 @@
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\bin\Debug\net8.0\zaddddd2.exe
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\bin\Debug\net8.0\zaddddd2.deps.json
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\bin\Debug\net8.0\zaddddd2.runtimeconfig.json
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\bin\Debug\net8.0\zaddddd2.dll
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\bin\Debug\net8.0\zaddddd2.pdb
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.AssemblyInfoInputs.cache
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.AssemblyInfo.cs
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.dll
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\refint\zaddddd2.dll
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.pdb
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\zaddddd2.genruntimeconfig.cache
+C:\Users\MEGA\Desktop\moqta papka\zaddddd2\obj\Debug\net8.0\ref\zaddddd2.dll
